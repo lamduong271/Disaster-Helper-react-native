@@ -1,3 +1,3 @@
-Natural Disaster Appication
+npm install
 
-Application to help people when natural disaster happen.
+open in expo xde
